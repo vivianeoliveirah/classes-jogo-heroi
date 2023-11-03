@@ -1,6 +1,6 @@
 # Bootcamp Potência Tech iFood - Programação do Zero 
 
-# Trilha Trabalhando com Funções- Desafio escrevendo as classes de um Jogo
+## Trilha Trabalhando com Funções- Desafio escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
 
